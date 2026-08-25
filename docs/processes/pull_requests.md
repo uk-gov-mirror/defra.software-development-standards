@@ -80,11 +80,13 @@ It's on you to keep your branch up to date with with your main development branc
 git rebase origin/main
 ```
 
-## Get it looked at
+## Get it reviewed
 
 When you're finished and have pushed your last commit request someone to review it. If there are multiple members on your team and all could review, feel free to request them all. The key thing is at least one other person should review the PR before it is merged.
 
 You and the reviewer will then work to confirm the changes are OK. Once the reviewer is happy they need to **approve it**.
+
+When code reviews are conducted to a high standard, they provide a valuable learning opportunity for the author, reviewer and any observers of the review process.
 
 ## Completing the PR
 
@@ -98,11 +100,7 @@ When you click it GitHub will present a box which contains the combined text fro
 
 When done ensure you delete the branch. Again GitHub will present this option in the UI immediately after merging so make use of it then.
 
-## Reviewing a pull request
-
-When code reviews are conducted to a high standard, they provide a valuable learning opportunity for the author, reviewer and any observers of the review process.
-
-At least one reviewer must approve a pull request before it can be merged.
+## Tips for reviewing PRs
 
 ### Tone of code review comments
 
